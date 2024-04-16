@@ -1,6 +1,6 @@
-## Welcome everyone :wave:
+## Welcome everyone
 
-I am Rami
+I am Rami Barasheed
 This site is demo (I am testing)
 
-# ramihp
+# Abu Aws 
